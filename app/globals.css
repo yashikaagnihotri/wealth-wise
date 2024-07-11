@@ -370,6 +370,7 @@
 
   .sidebar-logo {
     @apply 2xl:text-26 font-ibm-plex-serif text-[26px] font-bold text-black-1 max-xl:hidden;
+    font-size: 22px;
   }
 
   .sidebar-link {
@@ -378,5 +379,6 @@
 
   .sidebar-label {
     @apply text-16 font-semibold text-black-2 max-xl:hidden;
+    font-size: 14px;
   }
 }
